@@ -1,6 +1,6 @@
-# Basic Auction System (SCC311)
+# Basic Auction System
 
-This is a basic auction system implemented in Java for a university project (SCC311). The system allows clients to connect to a server and bid on auction items. It includes AES encryption for secure communication.
+This is a basic auction system implemented in Java for a university project . The system allows clients to connect to a server and bid on auction items. It includes AES encryption for secure communication.
 
 ## 🧠 Features
 
